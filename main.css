@@ -40,3 +40,11 @@ nav {
     color: #fff;
     background-color: #000;
 }
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: purple;
+}
